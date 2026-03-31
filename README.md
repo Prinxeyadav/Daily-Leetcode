@@ -11,3 +11,8 @@ I solve LeetCode problems daily and upload solutions with explanations.
 - Stay consistent every day
 
 ## nothing  here to change just cheking the commit is working or not;
+
+
+## Day-03 completed - restart clean
+
+
