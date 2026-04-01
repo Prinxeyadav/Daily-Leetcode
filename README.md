@@ -15,4 +15,6 @@ I solve LeetCode problems daily and upload solutions with explanations.
 
 ## Day-03 completed - restart clean
 
+## added <b> Power of two </b> Solution in java
+
 
