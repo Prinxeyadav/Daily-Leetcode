@@ -17,4 +17,6 @@ I solve LeetCode problems daily and upload solutions with explanations.
 
 ## added <b> Power of two </b> Solution in java
 
+## day 04 is added with <b> Fibonnaci Number </b> and <b> Roma to integer</b>
+
 
