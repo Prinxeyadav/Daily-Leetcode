@@ -1,25 +1,19 @@
 class Solution {
-    public int tribonacci(int n) {
+    public int numWaterBottles(int numBottles, int numExchange) {
+        int ans = numBottles;
 
-        if(n==0) {
-            return 0;
-        } else if ( n==1 || n==2) {
-            return 1 ;
-        } else {
-            int a = 0;
-            int b = 1; 
-            int c = 1 ;
+        while(numBottles>=numExchange){
 
-            for(int i=1; i<=n; i++) {
-                int d = a + b + c;
-                a = b;
-                b = c;
-                c = d;
+            int newBottles = numBottles/numExchange;
 
-            }
+            int renBottles =numBottles % numExchange ;
 
-            return a ;
+            ans += newBottles;
+
+            numBottles = newBottles + renBottles;
         }
-         
+
+        return ans;
+        
     }
 }
