@@ -23,5 +23,6 @@ I solve LeetCode problems daily and upload solutions with explanations.
 ## Day-04 Added
 ---Added N -th tribonnaci Number---
 ---Water Bottles---
+#f34 Added Solutions 
 
 
