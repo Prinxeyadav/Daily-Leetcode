@@ -34,5 +34,8 @@ I solve LeetCode problems daily and upload solutions with explanations.
 
 
 #f00 <b> Day-07 </b> Added
+#Missing Number
+#Two Sum II - Input Array Is Sorted
+
 
 
