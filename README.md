@@ -38,6 +38,8 @@ I solve LeetCode problems daily and upload solutions with explanations.
 #Two Sum II - Input Array Is Sorted
 
 #f00 <b> Day-08 </b> Added
+## Bulb Switcher 
+## Rotate Array
 
 
 
