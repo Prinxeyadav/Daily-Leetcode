@@ -50,5 +50,11 @@ I solve LeetCode problems daily and upload solutions with explanations.
 
 #f00 <b> Day-10 </b> Added
 
+1st :
+ ## Binary Search ##
+https://leetcode.com/submissions/detail/1970646236/
 
+2nd:
+## Find Lucky Integer in an Array ##
+https://leetcode.com/submissions/detail/1969692496/
 
