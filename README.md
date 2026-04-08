@@ -61,8 +61,11 @@ https://leetcode.com/submissions/detail/1969692496/
 
 #f00 
 ## <h2> Day-11 Added  </h2> ##
-<li> 
+<li> First -- 
 Find Minimum in Rotated Sorted Array </li>
+
+<li> Second---
+Find First and Last Position of Element in Sorted Array </li>
 
 
 
