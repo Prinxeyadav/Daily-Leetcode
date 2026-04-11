@@ -19,36 +19,55 @@ I solve LeetCode problems daily and upload solutions with explanations.
 
 ## day 04 is added with <b> Fibonnaci Number </b> and <b> Roma to integer</b>
 
+ ## <div> ##
+ ## <h2> Day-04 </h2> ##
+        <li> 1st:
+         N -th tribonnaci Number
+</li>
+ 
+ <li> 2nd: 
+        Water Bottles </li>
 
-## Day-04 Added
----Added N -th tribonnaci Number---
----Water Bottles---
-#f34 Added Solutions
+ ## </div> ##
+
+## #f00
+ ##  <h2> Day-05 </h2> ##
 
 
-#f00 ## Day-05
-## Day-5 added##
+
+ <b> Day-6 </b> 
 
 
-#f00 <b> Day-6 </b> Added
+ ## <h2> Day-07 </h2> ##
+ <li>1st:
+ Missing Number </li>
+
+ <li> 2nd:
+Two Sum II - Input Array Is Sorted </li>
 
 
-#f00 <b> Day-07 </b> Added
-#Missing Number
-#Two Sum II - Input Array Is Sorted
+## <h2> Day-08 </h2>  ##
+  <li> 1st: 
+Bulb Switcher  </li>
 
-#f00 <b> Day-08 </b> Added
-## Bulb Switcher 
-## Rotate Array
+<li> 2nd: 
+ Rotate Array </li>
 
  
-#f00 <b> Day-09 </b> Added
-## Maximum Ascending Subarray Sum
-## Increasing Triplet Subarray 
-## solutions added
+#f00 
+## <h2> Day-09 </h2>  ##
+ <li> First --
+Maximum Ascending Subarray Sum
+</li>
+
+<li> Second --
+        Increasing Triplet Subarray 
+        </li>
+## solutions added ##
 
 
-#f00 <b> Day-10 </b> Added
+#f00 
+## <h2> Day-10 </h2>  ##
 
 1st :
  ## Binary Search ##
@@ -69,7 +88,7 @@ Find First and Last Position of Element in Sorted Array </li>
 
 
 
-#f00 
+ ## #f00  ##
 ## <h2> Day-12 Added  </h2> ##
 <li> First -- 
         
@@ -82,20 +101,25 @@ Walking Robot Simulation II
  </li>
 
 
- #f00 <b> Day-13 </b> Added 
+ #f00 
+ ## <h2> Day-13 </h2> Added  ##
  <li>First-- 
 Single Element in a Sorted Array </li>
 
-<li> Second -- Sort Colors </li>
+<li> Second -- 
+        Sort Colors 
+        
+        </li>
 
 
-#f00 <b> Day-12 Added </b>
+#f00
+  ## <h2> Day-12 Added </h2> ##
 <li> First-- -
 XOR After Range Multiplication Queries I </li>
 
 <li> Second-- -
 XOR After Range Multiplication Queries II </li>
-<Mark> Solutions Added </Mark>
+<Mark color="Red"> Solutions Added </Mark>
 
 
 
