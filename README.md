@@ -90,6 +90,8 @@ Single Element in a Sorted Array </li>
 
 
 #f00 <b> Day-12 Added </b>
+<li> First-- -
+XOR After Range Multiplication Queries I </li>
 
 
 
