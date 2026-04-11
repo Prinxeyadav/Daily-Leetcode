@@ -93,5 +93,8 @@ Single Element in a Sorted Array </li>
 <li> First-- -
 XOR After Range Multiplication Queries I </li>
 
+<li> Second-- -
+XOR After Range Multiplication Queries II </li>
+
 
 
