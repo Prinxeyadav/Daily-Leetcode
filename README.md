@@ -24,7 +24,7 @@ I solve LeetCode problems daily and upload solutions with explanations.
 
 
  ## <h2> Day-04 </h2> ##
-        <li> 1st:
+<li> 1st:
         Fibonnaci Number </li>
  
  <li> 2nd: 
