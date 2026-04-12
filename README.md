@@ -2,40 +2,51 @@
 
 I solve LeetCode problems daily and upload solutions with explanations.
 
-## Progress
-
-- Day 01: Two Sum ✅
 
 ## Goal
 - Build strong problem-solving skills
 - Stay consistent every day
+ 
+## <h2> Day-01</h2> ##
+<li> Two Sum </li>
 
-## nothing  here to change just cheking the commit is working or not;
+##  <h2> Day-02 </h2> ##
+ <li>1st:
+        Reverse Integer </li>
+
+##  <h2> Day-03 </h2> ## 
+ <li> 1st: 
+ Power of two </li>
+
+ <li> 2nd:
+        Palindrome Number </li>
 
 
-## Day-03 completed - restart clean
 
-## added <b> Power of two </b> Solution in java
-
-## day 04 is added with <b> Fibonnaci Number </b> and <b> Roma to integer</b>
-
- ## <div> ##
  ## <h2> Day-04 </h2> ##
         <li> 1st:
-         N -th tribonnaci Number
-</li>
+        Fibonnaci Number </li>
  
  <li> 2nd: 
+       Roman To Integer </li>
+
+
+
+ ##  <h2> Day-05 </h2> ##
+ <li>1st :
+        N-th Tribonacci Number </li>
+
+<li> 2nd:
         Water Bottles </li>
 
- ## </div> ##
-
-## #f00
- ##  <h2> Day-05 </h2> ##
 
 
+ ## <b> Day-6 </b> ##
+<li>1st:
+ Maximum Product of Two Elements in an array </li>
 
- <b> Day-6 </b> 
+<li> 2nd :
+        Remove Element </li>
 
 
  ## <h2> Day-07 </h2> ##
@@ -53,8 +64,7 @@ Bulb Switcher  </li>
 <li> 2nd: 
  Rotate Array </li>
 
- 
-#f00 
+
 ## <h2> Day-09 </h2>  ##
  <li> First --
 Maximum Ascending Subarray Sum
@@ -63,10 +73,10 @@ Maximum Ascending Subarray Sum
 <li> Second --
         Increasing Triplet Subarray 
         </li>
-## solutions added ##
 
 
-#f00 
+
+
 ## <h2> Day-10 </h2>  ##
 
 1st :
@@ -78,7 +88,7 @@ https://leetcode.com/submissions/detail/1970646236/
 https://leetcode.com/submissions/detail/1969692496/
 
 
-#f00 
+
 ## <h2> Day-11 Added  </h2> ##
 <li> First -- 
 Find Minimum in Rotated Sorted Array </li>
@@ -88,12 +98,10 @@ Find First and Last Position of Element in Sorted Array </li>
 
 
 
- ## #f00  ##
+
 ## <h2> Day-12 Added  </h2> ##
 <li> First -- 
-        
-Walking Robot Simulation II
- </li> 
+        Walking Robot Simulation II </li> 
 
 
 <li> Second---
@@ -101,7 +109,7 @@ Walking Robot Simulation II
  </li>
 
 
- #f00 
+
  ## <h2> Day-13 </h2> Added  ##
  <li>First-- 
 Single Element in a Sorted Array </li>
@@ -110,7 +118,7 @@ Single Element in a Sorted Array </li>
         Sort Colors </li>
 
 
-## #f00 ##
+
   ## <h2> Day-14 </h2> ##
 <li> First-- -
 XOR After Range Multiplication Queries I </li>
@@ -122,9 +130,10 @@ XOR After Range Multiplication Queries II </li>
 
 
 ## <h2> Day-15 </h2> ##
-<li> First--
+<li> 1st:
          Maximum Subarray </li>
-<li> Second--
+<li> 2nd:
       Trapping Rain Water  </li>
+<Mark color="Red"> Solutions Added </Mark>
 
 
