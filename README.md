@@ -107,13 +107,11 @@ Walking Robot Simulation II
 Single Element in a Sorted Array </li>
 
 <li> Second -- 
-        Sort Colors 
-        
-        </li>
+        Sort Colors </li>
 
 
-#f00
-  ## <h2> Day-12 Added </h2> ##
+## #f00 ##
+  ## <h2> Day-14 </h2> ##
 <li> First-- -
 XOR After Range Multiplication Queries I </li>
 
@@ -121,5 +119,8 @@ XOR After Range Multiplication Queries I </li>
 XOR After Range Multiplication Queries II </li>
 <Mark color="Red"> Solutions Added </Mark>
 
+
+
+## <h2> Day-15 </h2> ##
 
 
