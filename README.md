@@ -141,4 +141,4 @@ XOR After Range Multiplication Queries II </li>
 ## <h2> Day-16 </h2> ##
 
 <li> 1st: 
-        </li>
+     Find Target Indices After Sorting Array   </li>
