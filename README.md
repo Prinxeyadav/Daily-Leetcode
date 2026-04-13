@@ -142,3 +142,6 @@ XOR After Range Multiplication Queries II </li>
 
 <li> 1st: 
      Find Target Indices After Sorting Array   </li>
+
+<li>2nd:
+    Minimum Distance Between Three Equal Elements I </li>
