@@ -137,3 +137,8 @@ XOR After Range Multiplication Queries II </li>
 <Mark color="Red"> Solutions Added </Mark>
 
 
+
+## <h2> Day-16 </h2> ##
+
+<li> 1st: 
+        </li>
