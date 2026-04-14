@@ -145,3 +145,6 @@ XOR After Range Multiplication Queries II </li>
 
 <li>2nd:
     Minimum Distance Between Three Equal Elements I </li>
+
+
+## <h2> Day-17 </h2> ##
