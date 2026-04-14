@@ -148,3 +148,9 @@ XOR After Range Multiplication Queries II </li>
 
 
 ## <h2> Day-17 </h2> ##
+
+<li>1st:
+        Concatenation of Array </li>
+
+<li>2nd:
+        Largest Number </li>
