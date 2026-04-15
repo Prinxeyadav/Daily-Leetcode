@@ -154,3 +154,14 @@ XOR After Range Multiplication Queries II </li>
 
 <li>2nd:
         Largest Number </li>
+
+
+
+
+## <h2> Day-18 </h2> ##
+
+<li>1st:
+         </li>
+
+<li>2nd:
+         </li>
