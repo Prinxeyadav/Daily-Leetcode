@@ -160,8 +160,8 @@ XOR After Range Multiplication Queries II </li>
 
 ## <h2> Day-18 </h2> ##
 
-<li>1st:
+<li>1st: Maximum Count of Positive Integer and Negative Integer
          </li>
 
-<li>2nd:
+<li>2nd: Plus One
          </li>
