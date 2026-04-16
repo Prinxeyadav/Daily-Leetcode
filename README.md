@@ -175,5 +175,6 @@ XOR After Range Multiplication Queries II </li>
 Kth Largest Element in an Array
          </li>
 
-<li>2nd: 
+<li>2nd:
+Average Salary Excluding the Minimum and Maximum Salary
          </li>
