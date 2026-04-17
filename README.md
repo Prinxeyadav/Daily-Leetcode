@@ -184,7 +184,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-20 </h2> ##
 
 <li>1st: 
-
+        Min Stack
          </li>
 
 <li>2nd:
