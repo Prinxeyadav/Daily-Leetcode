@@ -178,3 +178,15 @@ Kth Largest Element in an Array
 <li>2nd:
 Average Salary Excluding the Minimum and Maximum Salary
          </li>
+
+
+                  
+## <h2> Day-20 </h2> ##
+
+<li>1st: 
+
+         </li>
+
+<li>2nd:
+
+         </li>
