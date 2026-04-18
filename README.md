@@ -197,7 +197,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-21 </h2> ##
 
 <li>1st: 
-       
+       Implement Queue using Stack
          </li>
 
 <li>2nd:
