@@ -210,7 +210,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-22 </h2> ##
 
 <li>1st: 
-      
+      Find the Duplicate Number
          </li>
 
 <li>2nd:
