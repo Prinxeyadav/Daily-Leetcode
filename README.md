@@ -223,7 +223,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-23 </h2> ##
 
 <li>1st: 
-     
+     Valid Parentheses
          </li>
 
 <li>2nd:
