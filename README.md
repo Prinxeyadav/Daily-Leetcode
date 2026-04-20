@@ -216,3 +216,16 @@ Average Salary Excluding the Minimum and Maximum Salary
 <li>2nd:
         Longest Common Prefix
          </li>
+
+
+
+
+## <h2> Day-23 </h2> ##
+
+<li>1st: 
+     
+         </li>
+
+<li>2nd:
+       
+         </li>
