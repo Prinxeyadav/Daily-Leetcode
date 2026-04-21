@@ -236,7 +236,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-24 </h2> ##
 
 <li>1st: 
-
+        Remove Duplicates from Sorted Array
          </li>
 
 <li>2nd:
