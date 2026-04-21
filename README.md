@@ -230,3 +230,16 @@ Average Salary Excluding the Minimum and Maximum Salary
        
         Merge Two Sorted Lists
          </li>
+
+
+        
+## <h2> Day-24 </h2> ##
+
+<li>1st: 
+
+         </li>
+
+<li>2nd:
+       
+        
+         </li>
