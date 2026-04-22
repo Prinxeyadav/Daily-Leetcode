@@ -250,6 +250,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-25 </h2> ##
 
 <li>1st: 
+        Climbing Stairs
          </li>
 
 <li>2nd:
