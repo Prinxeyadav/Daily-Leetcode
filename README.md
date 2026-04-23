@@ -267,4 +267,5 @@ Average Salary Excluding the Minimum and Maximum Salary
          </li>
 
 <li>2nd:
+        Last Stone Weight
          </li>
