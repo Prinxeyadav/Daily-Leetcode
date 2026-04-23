@@ -256,3 +256,14 @@ Average Salary Excluding the Minimum and Maximum Salary
 <li>2nd:
         Add Binary
          </li>
+
+
+
+      
+## <h2> Day-26 </h2> ##
+
+<li>1st: 
+         </li>
+
+<li>2nd:
+         </li>
