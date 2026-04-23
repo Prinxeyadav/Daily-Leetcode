@@ -262,7 +262,8 @@ Average Salary Excluding the Minimum and Maximum Salary
       
 ## <h2> Day-26 </h2> ##
 
-<li>1st: 
+<li>1st:
+        Remove Duplicates from Sorted List
          </li>
 
 <li>2nd:
