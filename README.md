@@ -227,9 +227,8 @@ Average Salary Excluding the Minimum and Maximum Salary
          </li>
 
 <li>2nd:
-       
-        Merge Two Sorted Lists
-         </li>
+       Merge Two Sorted Lists
+</li>
 
 
         
@@ -241,8 +240,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 
 <li>2nd:
        Length of Last Word
-        
-         </li>
+        </li>
 
 
 
@@ -268,4 +266,15 @@ Average Salary Excluding the Minimum and Maximum Salary
 
 <li>2nd:
         Last Stone Weight
+         </li>
+
+
+
+     
+## <h2> Day-27 </h2> ##
+
+<li>1st:
+         </li>
+
+<li>2nd:
          </li>
