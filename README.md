@@ -274,6 +274,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-27 </h2> ##
 
 <li>1st:
+        Find Pivot Index
          </li>
 
 <li>2nd:
