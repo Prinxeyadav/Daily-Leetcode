@@ -288,6 +288,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-28 </h2> ##
 
 <li>1st:
+        Remove Duplicate Letters
          </li>
 
 <li>2nd:
