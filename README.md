@@ -300,9 +300,9 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-29 </h2> ##
 
 <li>1st:
-
         String Compression
-         </li>
+        </li>
 
 <li>2nd:
+        Decode String
          </li>
