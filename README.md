@@ -306,3 +306,16 @@ Average Salary Excluding the Minimum and Maximum Salary
 <li>2nd:
         Decode String
          </li>
+
+
+
+    
+## <h2> Day-30 </h2> ##
+
+<li>1st:
+        </li>
+
+<li>2nd:
+         
+         </li>
+
