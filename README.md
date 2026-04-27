@@ -313,6 +313,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-30 </h2> ##
 
 <li>1st:
+        1897. Redistribute Characters to Make All String
         </li>
 
 <li>2nd:
