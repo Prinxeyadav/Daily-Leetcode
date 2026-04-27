@@ -317,6 +317,6 @@ Average Salary Excluding the Minimum and Maximum Salary
         </li>
 
 <li>2nd:
-         
+        1446. Consecutive Characters
          </li>
 
