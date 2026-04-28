@@ -320,3 +320,17 @@ Average Salary Excluding the Minimum and Maximum Salary
         1446. Consecutive Characters
          </li>
 
+
+
+
+    
+## <h2> Day-31 </h2> ##
+
+<li>1st:
+        1897. Redistribute Characters to Make All String
+        </li>
+
+<li>2nd:
+        1446. Consecutive Characters
+         </li>
+
