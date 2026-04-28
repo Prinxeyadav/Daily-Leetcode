@@ -327,7 +327,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-31 </h2> ##
 
 <li>1st:
-        1897. Redistribute Characters to Make All String
+        125. Valid Palindrome
         </li>
 
 <li>2nd:
