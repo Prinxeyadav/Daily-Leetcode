@@ -344,6 +344,6 @@ Average Salary Excluding the Minimum and Maximum Salary
         </li>
 
 <li>2nd:
-        921. Minimum Add to Make Parentheses Valid
+        1572. Matrix Diagonal Sum
          </li>
 
