@@ -340,7 +340,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-32 </h2> ##
 
 <li>1st:
-        125. Valid Palindrome
+        242. Valid Anagram
         </li>
 
 <li>2nd:
