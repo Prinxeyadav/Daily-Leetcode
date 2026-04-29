@@ -334,3 +334,16 @@ Average Salary Excluding the Minimum and Maximum Salary
         921. Minimum Add to Make Parentheses Valid
          </li>
 
+
+
+   
+## <h2> Day-32 </h2> ##
+
+<li>1st:
+        125. Valid Palindrome
+        </li>
+
+<li>2nd:
+        921. Minimum Add to Make Parentheses Valid
+         </li>
+
