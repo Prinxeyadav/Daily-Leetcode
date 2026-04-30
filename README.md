@@ -347,3 +347,14 @@ Average Salary Excluding the Minimum and Maximum Salary
         1572. Matrix Diagonal Sum
          </li>
 
+
+
+   
+## <h2> Day-33 </h2> ##
+
+<li>1st:
+        </li>
+
+<li>2nd:
+         </li>
+
