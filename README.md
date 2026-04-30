@@ -353,6 +353,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-33 </h2> ##
 
 <li>1st:
+        867. Transpose Matrix
         </li>
 
 <li>2nd:
