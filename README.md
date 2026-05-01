@@ -360,3 +360,15 @@ Average Salary Excluding the Minimum and Maximum Salary
         74. Search a 2D Matrix
          </li>
 
+
+  
+## <h2> Day-34 </h2> ##
+
+<li>1st:
+        867. Transpose Matrix
+        </li>
+
+<li>2nd:
+        74. Search a 2D Matrix
+         </li>
+
