@@ -369,6 +369,6 @@ Average Salary Excluding the Minimum and Maximum Salary
                 </li>
 
 <li>2nd:
-        74. Search a 2D Matrix
+        237. Delete Node in a Linked List
          </li>
 
