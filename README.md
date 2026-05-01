@@ -365,8 +365,8 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-34 </h2> ##
 
 <li>1st:
-        867. Transpose Matrix
-        </li>
+        234. Palindrome Linked List
+                </li>
 
 <li>2nd:
         74. Search a 2D Matrix
