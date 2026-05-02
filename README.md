@@ -372,3 +372,14 @@ Average Salary Excluding the Minimum and Maximum Salary
         237. Delete Node in a Linked List
          </li>
 
+
+
+
+## <h2> Day-35 </h2> ##
+
+<li>1st:
+                </li>
+
+<li>2nd:
+         </li>
+
