@@ -382,5 +382,6 @@ Average Salary Excluding the Minimum and Maximum Salary
                 </li>
 
 <li>2nd:
+        142. Linked List Cycle II
          </li>
 
