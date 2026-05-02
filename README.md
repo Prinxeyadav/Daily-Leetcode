@@ -378,6 +378,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-35 </h2> ##
 
 <li>1st:
+        141. Linked List Cycle    
                 </li>
 
 <li>2nd:
