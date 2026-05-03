@@ -385,3 +385,14 @@ Average Salary Excluding the Minimum and Maximum Salary
         142. Linked List Cycle II
          </li>
 
+
+
+
+## <h2> Day-36 </h2> ##
+
+<li>1st:
+                </li>
+
+<li>2nd:
+         </li>
+
