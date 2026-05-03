@@ -391,7 +391,8 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-36 </h2> ##
 
 <li>1st:
-                </li>
+        203. Remove Linked List Elements     
+        </li>
 
 <li>2nd:
          </li>
