@@ -398,3 +398,15 @@ Average Salary Excluding the Minimum and Maximum Salary
         2095. Delete the Middle Node of a Linked List
          </li>
 
+
+
+
+
+## <h2> Day-37 </h2> ##
+
+<li>1st:
+        </li>
+
+<li>2nd:
+         </li>
+
