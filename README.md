@@ -409,6 +409,6 @@ Average Salary Excluding the Minimum and Maximum Salary
 </li>
 
 <li>2nd:
-        222. Count Complete Tree Nodes
+        965. Univalued Binary Tree
          </li>
 
