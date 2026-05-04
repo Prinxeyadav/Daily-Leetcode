@@ -405,6 +405,8 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-37 </h2> ##
 
 <li>1st:
+        2181. Merge Nodes in Between Zeros
+
         </li>
 
 <li>2nd:
