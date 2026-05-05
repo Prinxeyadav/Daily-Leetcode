@@ -412,3 +412,20 @@ Average Salary Excluding the Minimum and Maximum Salary
         965. Univalued Binary Tree
          </li>
 
+
+
+
+
+## <h2> Day-38 </h2> ##
+
+<li>1st:
+</li>
+
+<li>2nd:
+         </li>
+
+
+
+
+
+
