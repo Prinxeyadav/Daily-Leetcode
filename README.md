@@ -433,6 +433,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-39 </h2> ##
 
 <li>1st:
+        145. Binary Tree Postorder Traversal
 </li>
 
 <li>2nd:
