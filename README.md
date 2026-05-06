@@ -437,6 +437,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 </li>
 
 <li>2nd:
+        257. Binary Tree Paths
          </li>
 
 
