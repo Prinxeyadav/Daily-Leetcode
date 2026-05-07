@@ -456,6 +456,9 @@ Average Salary Excluding the Minimum and Maximum Salary
 <li>
         Day-40 Added
         </li>
+<li>
+        Solutions Added
+        </li>
 
 
 
