@@ -447,6 +447,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-40 </h2> ##
 
 <li>1st:
+        230. Kth Smallest Element in a BST
 </li>
 
 <li>2nd:
