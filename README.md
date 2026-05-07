@@ -453,6 +453,9 @@ Average Salary Excluding the Minimum and Maximum Salary
 <li>2nd:
         112. Path Sum
          </li>
+<li>
+        Day-40 Added
+        </li>
 
 
 
