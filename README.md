@@ -454,16 +454,7 @@ Average Salary Excluding the Minimum and Maximum Salary
         112. Path Sum
          </li>
 
-## Testing contribution graph ##
-## Contribution Test ## 
 
-## <h2> Day-40 </h2> ##
-
-<li>1st:
-</li>
-        
-<li>2nd:
-         </li>
 
 
 
