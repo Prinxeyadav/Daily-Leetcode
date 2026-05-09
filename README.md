@@ -478,6 +478,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-42 </h2> ##
 
 <li>1st:
+        543. Diameter of Binary Tree
 </li>
         
 <li>2nd:
