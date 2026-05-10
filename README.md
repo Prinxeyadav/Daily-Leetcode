@@ -490,6 +490,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-43 </h2> ##
 
 <li>1st:
+        617. Merge Two Binary Trees
 </li>
         
 <li>2nd:
