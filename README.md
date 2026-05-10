@@ -494,6 +494,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 </li>
         
 <li>2nd:
+        700. Search in a Binary Search Tree
          </li>
 
 
