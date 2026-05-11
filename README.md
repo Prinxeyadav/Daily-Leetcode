@@ -510,6 +510,7 @@ Average Salary Excluding the Minimum and Maximum Salary
         235. Lowest Common Ancestor of a Binary Sea
          </li>
 
+<li> Day-44 Added </li>
 
 
 
