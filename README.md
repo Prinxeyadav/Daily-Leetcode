@@ -507,6 +507,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 </li>
         
 <li>2nd:
+        235. Lowest Common Ancestor of a Binary Sea
          </li>
 
 
