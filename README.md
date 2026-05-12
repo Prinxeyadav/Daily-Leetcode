@@ -515,5 +515,17 @@ Average Salary Excluding the Minimum and Maximum Salary
 
 
 
+## <h2> Day-45 </h2> ##
+
+<li>1st:
+</li>
+        
+<li>2nd:
+         </li>
+
+
+
+
+
 
 
