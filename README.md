@@ -518,6 +518,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-45 </h2> ##
 
 <li>1st:
+        98. Validate Binary Search Tree
 </li>
         
 <li>2nd:
