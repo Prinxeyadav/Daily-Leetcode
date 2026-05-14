@@ -544,6 +544,7 @@ Average Salary Excluding the Minimum and Maximum Salary
 ## <h2> Day-47 </h2> ##
 
 <li>1st:
+        1038. Binary Search Tree to Greater Sum Tree
 </li>
         
 <li>2nd:
